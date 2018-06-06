@@ -1,6 +1,6 @@
 # Immersive Design
 
-![Virtual Reality Minor](https://moodle.cmd.hva.nl/pluginfile.php/496/mod_forum/attachment/3828/VR-atelier.jpg)
+![glenn](http://www.glennwustlich.nl/wp-content/uploads/2018/03/scope.png)
 
 The course 'Immersive Design' is part of the minor Virtual Reality Experience at the [Faculty of Digital Media and Creative Industries](https://www.amsterdamuas.com/faculty/fdmci/faculty-of-digital-media-and-creative-industries.html), [Amsterdam University of Applied Sciences](https://www.amsterdamuas.com/). Since 2016, we have been creating and developing VR & AR projects for KLM, UNICEF, Bartiméus, G-STAR, Mode Muze, Spaarne Gasthuis Hoofddorp and we have succesfully cooperated with [Hypercraft](http://amfi.nl/technology-transforming-fashion-industry/), an exclusive virtual fashion minor at the international critically acclaimed Amsterdam Fashion Institute (AMFI).
 
@@ -89,4 +89,4 @@ ___
 This project has a [Code of Conduct](https://github.com/annemarleen/immersive-design/blob/master/code-of-conduct.md). Anyone interacting with this repository, organisation, or community is bound by it.
 Staff and students of the Amsterdam University of Applied Sciences (Hogeschool van Amsterdam) are additionally bound by the [Regulation Undesirable Conduct (Regeling Ongewenst Gedrag)](https://www.amsterdamuas.com/practical-matters/algemeen/hva-breed/juridische-zaken/legal-affairs/regulation-undesirable-conduct/regulation-undesirable-conduct.html#anker-3-complaints-authority).
 
-![glenn](http://www.glennwustlich.nl/wp-content/uploads/2018/03/scope.png)
+![Virtual Reality Minor](https://moodle.cmd.hva.nl/pluginfile.php/496/mod_forum/attachment/3828/VR-atelier.jpg)
