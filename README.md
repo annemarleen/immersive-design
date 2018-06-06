@@ -1,6 +1,7 @@
 # Immersive Design
 
 ![glenn](http://www.glennwustlich.nl/wp-content/uploads/2018/03/scope.png)
+[**@Glenn Wustlich, participant fall/winter semester 17/18**](http://glennwustlich.nl/)
 
 The course 'Immersive Design' is part of the minor Virtual Reality Experience at the [Faculty of Digital Media and Creative Industries](https://www.amsterdamuas.com/faculty/fdmci/faculty-of-digital-media-and-creative-industries.html), [Amsterdam University of Applied Sciences](https://www.amsterdamuas.com/). Since 2016, we have been creating and developing VR & AR projects for KLM, UNICEF, Bartiméus, G-STAR, Mode Muze, Spaarne Gasthuis Hoofddorp and we have succesfully cooperated with [Hypercraft](http://amfi.nl/technology-transforming-fashion-industry/), an exclusive virtual fashion minor at the international critically acclaimed Amsterdam Fashion Institute (AMFI).
 
