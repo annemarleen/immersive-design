@@ -1,0 +1,2 @@
+# immersive-design
+The course 'Immersive Design' is part of the minor Virtual Reality Experience at the University of Applied Sciences Amsterdam. Since 2016, we have been creating and developing VR &amp; AR projects for KLM, UNICEF, Bartiméus, G-STAR, Mode Muze, Spaarne Gasthuis Hoofddorp and we have succesfully cooperated with [Hypercraft](http://amfi.nl/technology-transforming-fashion-industry/), an exclusive virtual fashion minor at the international critically acclaimed Amsterdam Fashion Institute (AMFI).
