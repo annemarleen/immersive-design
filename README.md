@@ -90,7 +90,7 @@ This project has a [Code of Conduct](https://github.com/annemarleen/immersive-d
 Staff and students of the Amsterdam University of Applied Sciences (Hogeschool van Amsterdam) are additionally bound by the [Regulation Undesirable Conduct (Regeling Ongewenst Gedrag)](https://www.amsterdamuas.com/practical-matters/algemeen/hva-breed/juridische-zaken/legal-affairs/regulation-undesirable-conduct/regulation-undesirable-conduct.html#anker-3-complaints-authority).
 
 
-MIT License
+[MIT License](https://github.com/annemarleen/immersive-design/blob/master/LICENSE)
 
 Copyright (c) 2018 Anne Marleen
 
