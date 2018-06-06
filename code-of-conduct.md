@@ -75,4 +75,4 @@ version 1.4, available at [`contributor-covenant.org/version/1/4`][version].
 
 [version]: https://contributor-covenant.org/version/1/4/
 
-[contact]: mailto:t.e.wormer@hva.nl?subject=frontend-3:coc:%20
+[contact]: mailto:a.m.olthof@hva.nl?subject=immersive-design
