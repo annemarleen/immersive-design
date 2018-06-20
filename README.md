@@ -28,7 +28,7 @@ ___
 
 **Chapter IV.** Interaction Design Controllers
 
-**Chapter V.** Interaction Design GUI
+[**Chapter V.** Interaction Design GUI](https://github.com/annemarleen/immersive-design/blob/master/chapter-6.md)
 
 **Chapter VI.** Navigation: Actual & Virtual 
 
