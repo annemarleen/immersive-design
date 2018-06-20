@@ -12,7 +12,7 @@ ___
 
 ## Prologue
 
-**Who framed Roger Rabbit?** Living in Xperience Reality (VR/AR/MR/XR).
+[**Who framed Roger Rabbit?** Living in Xperience Reality (VR/AR/MR/XR).](https://github.com/annemarleen/immersive-design/blob/master/prologue.md)
 
 ## Part one
 
