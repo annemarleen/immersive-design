@@ -89,9 +89,6 @@ Mouse-activated buttons look small enough to be hit with your mouse, while touch
 
 #### [article 3: User Interface Type in FPS - non-diegetic, diegetic, adaptive](https://jyx.jyu.fi/bitstream/handle/123456789/56744/URN:NBN:fi:jyu-201801151208.pdf?sequence=1)
 
-#### [article 4: The UX of VR - resources](https://www.uxofvr.com/)
-
-
 ## VR Usability Heuristics & Gestalt
 
 Remember that these [Designing for VR: Applying Usability Heuristics to Virtual Reality](https://omobono.com/insights/blog/designing-vr-applying-usability-heuristics-virtual-reality) exist as lenses through which to critique and examine an interaction, not as hard and fast rules.
