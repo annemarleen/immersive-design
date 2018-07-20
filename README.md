@@ -16,9 +16,9 @@ ___
 
 ## Prologue
 
-**Who framed Roger Rabbit?** Living in Xperience Reality XR (VR/AR/MR)
+**Who framed Roger Rabbit?** [Living in Xperience Reality XR (VR/AR/MR)](https://github.com/annemarleen/immersive-design/blob/master/prologue.md)
 
-**Getting Started:** The History of VR: Founding Fathers & Mothers, Today’s Designers & Futurists**
+**Getting Started:** [The History of VR: Founding Fathers & Mothers, Today’s Designers & Futurists**](https://github.com/annemarleen/immersive-design/blob/master/gs-history-of-vr.md)
 
 **Getting Started:** 52 definitions of Virtual Reality by VR father Jaron Lanier**
 
