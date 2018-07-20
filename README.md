@@ -6,7 +6,7 @@ The course 'Immersive Design' is part of the minor Virtual Reality Experience at
 
 ![glenn](http://www.glennwustlich.nl/wp-content/uploads/2018/03/scope.png)
 
-This course will provide expertise in designing for alternate reality, such as virtual/augmented and mixed reality. We make use of Narration Techniques & Interactive Storytelling and after finishing this course you will have a firm base in User Experience Design and Interaction Design for Virtual/Augmented Reality. We intend to work according to Research through Design and create Reflective Thinking via dialogue & rationale. 
+This course will provide expertise in designing for alternate reality, such as virtual/augmented and mixed reality. We make use of Narration Techniques & Interactive Storytelling and after finishing this course you will have a firm base in User Experience Design and Interaction Design for 3D User Interfaces VR/AR/MR. We intend to work by means of Research through Design and create Reflective Thinking via dialogue & rationale. 
 
 ### Vision
 Our vision is formed on the premise that future designers will be Immersive Designers, who untie themselves from any device and will place the content in the world itself, eliminating the abstraction between the content and its users as much as possible. Students learn how to design for this abstraction and learn how to create multi-sensory experiences that fully captivate the user's potential to feel & sense, touch & taste, see & move, to listen & to speak, without losing grip on the user's needs for understanding and guidance throughout the experience. 
