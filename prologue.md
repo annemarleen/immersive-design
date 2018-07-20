@@ -10,6 +10,8 @@ This course Immersive Design XR (eXperience Reality) is made for you to start De
 
 ### Our Vision
 Our vision is formed on the premise that future designers will be Immersive Designers, who untie themselves from any device and will place the content in the world itself, eliminating the abstraction between the content and its users as much as possible. Students learn how to design for this abstraction and learn how to create multi-sensory experiences that fully captivate the user's potential to feel & sense, touch & taste, see & move, to listen & to speak, without losing grip on the user's needs for understanding and guidance throughout the experience. 
+
+[This video very quickly introduces you intro the Xperience Reality aspects](http://www.youtube.com/watch?v=yXoQ4dKHGRE)
 ___
 
 ### Past and Future Experience Reality
@@ -33,5 +35,45 @@ The predominant mode of landscape representation was the [bird’s-eye view](htt
 [Nathan Joseph](https://medium.com/re-write/from-static-to-dynamic-and-back-to-static-d77f33e8ee61) explains that **in 1968**, the next big jump on the virtual reality spectrum came when Ivan Sutherland created the first Head Mounted Display (HMD), with the help of one of Ivan’s student, Bob Sproull. 
 
 However, throughout this boom in technological development the term “virtual reality” still wasn’t even a part of our collective lexicons. It wasn’t until the 80’s when, Jaron Lanier popularized the term providing us with a newly colored lens to look at the world through. Soon Lanier’s ideas were promoting storylines in popular science fiction television shows like Star Trek. From there, science fiction writers began to delve into the depths of what VR could encompass. Ultimately, bringing their ideas to the silver screen with movies like [Tron (1982)](http://www.youtube.com/watch?v=-BZxGhNdz1k "Tron"), [Robocop(1987)](http://www.youtube.com/watch?v=zbCbwP6ibR4 "Robocop"), and even the early 2000's hit [The Matrix Trilogy](http://www.youtube.com/watch?v=WNnGXXlPzuo "Matrix").
+
+[The History of Virtual Reality](https://www.slideshare.net/marknb00/create-your-own-vr-experience)
+
+## Ancient and Present Reality
+
+![Dordogne Painted Caves](http://blog.discoverfrance.com/wp-content/uploads/2011/11/lascaux-2.jpg)
+
+Lascaux French Caves (11.000-7.000 BC)
+
+![Gravinis ](http://i1283.photobucket.com/albums/a555/PINNAZ/5F959CA3-F1C1-4390-B627-8EF0FFCB68C6-1129-0000016A5D27645E_zps9cc28bb3.jpg)
+
+Gravinis Cairn (4.000 BC)
+
+![Under the Skin](https://media.giphy.com/media/l0MYDyujaa59JH4qc/giphy.gif)
+
+Under The Skin (2013 AD)
+
+![Megaliths Moai Easter Island](http://www.arthistoryarchive.com/arthistory/prehistoricart/images/small_Easter-Island.jpg)
+
+Megaliths Moai Easter Island (disputed time range)
+
+![Stone Henge](http://www.arthistoryarchive.com/arthistory/prehistoricart/images/Stone-Henge-Salisbury-England-c2100BC.jpg)
+
+Stone Henge (c. 2100 BC)
+
+![The Ring](http://49.media.tumblr.com/ae888e4177ce8a5b416bab2cb37c1add/tumblr_o3xg90PbqI1v2qvrfo1_1280.gif)
+
+The Ring (2002 AD)
+
+![Lascaux](http://www.arthistoryarchive.com/arthistory/prehistoricart/images/Lascaux-France-Cave.jpg)
+
+Lascaux French Caves(11.000-7.000 BC)
+
+![Painting Panorama](http://paintingperceptions.com/wp-content/uploads/2013/05/ML_01_lg.jpg)
+
+Painting Panorama (2012-13 AD)
+
+![Donnie Darko](http://31.media.tumblr.com/3cfd13920a9e5c8efa286e8102c5efa5/tumblr_npfhupcJqB1rp0vkjo1_500.gif)
+
+Donnie Darko (2001 AD)
 
 [![chart history of VR](http://boonvr.com/data/wp-content/uploads/2017/12/history-of-vr-1.png)](http://www.boonvr.com/data/blog/2017/12/19/history-of-vr/)
