@@ -87,7 +87,7 @@ ___
 
 ## Part four
 
-**Chapter XXI.** Testing in XR- Immersion & Presence
+**Chapter XXI.** Testing in XR: Immersion & Presence
 
 ___
 
