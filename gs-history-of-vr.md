@@ -26,7 +26,7 @@ ___
 
 [**article 4: The Ultimate Display (1965), ARPA, Ivan Sutherland.**](http://worrydream.com/refs/Sutherland%20-%20The%20Ultimate%20Display.pdf)
 
-[**article 5: The Father of VR, Atari employee & founder of VPL Research (1984), Jaron Lanier**](http://kk.org/mt-files/writings/virtual_lanier.pdf)
+[**article 5: The Father of VR, Atari employee & founder of VPL Research (1984), Jaron Lanier](http://kk.org/mt-files/writings/virtual_lanier.pdf)
 
 [**article 6: The Dumbledore of VR & founder HIT Lab (1989), Tom Furness**](https://www.youtube.com/watch?v=kv5gMFb1RG0)
 
