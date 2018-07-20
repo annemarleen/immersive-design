@@ -1,6 +1,6 @@
 # Immersive Design
 
-The course 'Immersive Design' is part of the minor Virtual Reality Experience at the University of Applied Sciences Amsterdam. Since 2016, we have been creating and developing VR & AR projects for KLM, UNICEF, Bartiméus, G-STAR, Mode Muze, Spaarne Gasthuis Hoofddorp, Museum Volkenkunde Leiden and we have succesfully cooperated with [Hypercraft](http://amfi.nl/technology-transforming-fashion-industry/), an exclusive virtual fashion minor at the international critically acclaimed Amsterdam Fashion Institute (AMFI).
+The course 'Immersive Design' is part of the minor Virtual Reality Experience at the University of Applied Sciences Amsterdam. Since 2016, we have been creating and developing VR & AR projects for KLM, UNICEF, Bartiméus, G-STAR, Mode Muze, Vlisco, Spaarne Gasthuis Hoofddorp, Museum Volkenkunde Leiden and we have succesfully cooperated with [Hypercraft](http://amfi.nl/technology-transforming-fashion-industry/), an exclusive virtual fashion minor at the international critically acclaimed Amsterdam Fashion Institute (AMFI).
 
 ### Course Immersive Design
 
@@ -67,21 +67,21 @@ ___
 
 ## Part four: Interaction Techniques
 
-**Chapter XIII** 3D Design Patterns & Tutorial Design
+**Chapter XIII.** 3D Design Patterns & Tutorial Design
 
 **Chapter XIV.** Navigation
 
 **Chapter XV.** Wayfinding
 
-**Chapter XVI** System Control
+**Chapter XVI.** System Control
 
 **Chapter XVII.** Selection and Manipulation
 
 **Chapter XVIII.** Feedback
 
-**Chapter XIX** Motion Capture & Animations 
+**Chapter XIX.** Motion Capture & Animations 
 
-**Chapter XX** Audio & Sound
+**Chapter XX.** Audio & Sound
 
 ___
 
@@ -99,9 +99,9 @@ ___
 * Virtual Fashion (Clo3D) by [Ineke Siersema](i.siersema@hva.nl)
 
 ## Gear
-**Software:** Unity, Unreal, Maya, Clo3D, Mixamo, Marvelous, Make Human, Adobe Fuse, Vuforia.
+**Software:** Unity, Unreal, Maya, Clo3D, Mixamo, Marvelous, DAZ Studio, Make Human, Adobe Fuse, Vuforia, FMOD
 
-**Hardware:** HTC Vive, Oculus, Leap Motion, Hololens, Android AR, Gear VR, Perception Neuron (mocap), Manus VR, Fove eye tracking.
+**Hardware:** HTC Vive, Oculus, Leap Motion, Hololens, Android AR, Gear VR, Perception Neuron (mocap), IKinema, Manus VR, Fove eye tracking.
 
 ## Synopsis
 - Course: Immersive Design XR (VR/AR/MR)
