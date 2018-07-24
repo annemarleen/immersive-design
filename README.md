@@ -93,19 +93,13 @@ ___
 
 ## Epilogue
 
-## Other courses in the minor
-* 3D Modeling & Game Engines by Freark Broersma: f.j.broersma@hva.nl
-* Head-Mounted Displays & Tracking by Jurriaan Mulder: j.d.mulder@hva.nl
-* Virtual Fashion (Clo3D) by Ineke Siersema: i.siersema@hva.nl
-
 ## Gear
 **Software:** Unity, Unreal, Maya, Clo3D, Mixamo, Marvelous, DAZ Studio, Make Human, Adobe Fuse, Vuforia, FMOD
 
 **Hardware:** HTC Vive, Oculus, Leap Motion, Hololens, Android AR, Gear VR, Perception Neuron (mocap), IKinema, Manus VR, Fove eye tracking.
 
 ## Synopsis
-- Course: Immersive Design XR (VR/AR/MR)
-- Course coordinator: **Anne Marleen Olthof: a.m.olthof@hva.nl // [**@annemarleen**](https://twitter.com/annemarleen)
+- Course: Immersive Design XR (VR/AR/MR) by **Anne Marleen Olthof: a.m.olthof@hva.nl // [**@annemarleen**](https://twitter.com/annemarleen)
 - Course lecturer: Anne Marleen Olthof 
 - Minor: Virtual Reality Experience
 - Minor coordinator: Lisette Vonk: t.e.vonk@hva.nl
@@ -115,6 +109,11 @@ ___
 - Programme: Faculty Digital Media and Creative Industries (full time bachelor)
 - Language: English instructions and resources
 - Entry requirements: N/A
+
+## Other courses in the minor
+* 3D Modeling & Game Engines by Freark Broersma: f.j.broersma@hva.nl
+* Head-Mounted Displays & Tracking by Jurriaan Mulder: j.d.mulder@hva.nl
+* Virtual Fashion (Clo3D) by Ineke Siersema: i.siersema@hva.nl
 
 ## Positioning
 The course 'Immersive Design' is part of the minor Virtual Reality Experience at the [Faculty of Digital Media and Creative Industries](https://www.amsterdamuas.com/faculty/fdmci/faculty-of-digital-media-and-creative-industries.html), [Amsterdam University of Applied Sciences](https://www.amsterdamuas.com/).
