@@ -46,7 +46,7 @@ Combining these parts creates the Eight Efforts:
 
 #### Theoretical Imagery
 
-* [Theoretical Imagery: Laban Movement Analysis II](http://www.laban-analyses.org/laban_analysis_reviews/laban_analysis_notation/space_harmony_choreutics/planes/laban_planes_icosahedron.jpg)
+* [Theoretical Imagery: Laban Movement Analysis I](http://www.laban-analyses.org/laban_analysis_reviews/laban_analysis_notation/space_harmony_choreutics/planes/laban_planes_icosahedron.jpg)
 * [Theoretical Imagery: Laban Movement Analysis II](https://dryuc24b85zbr.cloudfront.net/tes/resources/6241650/image?width=500&height=500&version=1337895742000)
 * [Theoretical Imagery: Laban Movement Analysis III](https://upload.wikimedia.org/wikipedia/commons/2/27/Laban-effort-graph.jpg)
 * [Theoretical Imagery: Laban Movement Analysis IV](https://godenicks.files.wordpress.com/2013/11/images-3.jpg)
