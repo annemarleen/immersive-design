@@ -99,7 +99,7 @@ ___
 **Hardware:** HTC Vive, Oculus, Leap Motion, Hololens, Android AR, Gear VR, Perception Neuron (mocap), IKinema, Manus VR, Fove eye tracking.
 
 ## Synopsis
-- Course: Immersive Design XR (VR/AR/MR) by **Anne Marleen Olthof: a.m.olthof@hva.nl // [**@annemarleen**](https://twitter.com/annemarleen)
+- Course: Immersive Design XR (VR/AR/MR) by **Anne Marleen Olthof: a.m.olthof@hva.nl** // [**@annemarleen**](https://twitter.com/annemarleen)
 - Course lecturer: Anne Marleen Olthof 
 - Minor: Virtual Reality Experience
 - Minor coordinator: Lisette Vonk: t.e.vonk@hva.nl
