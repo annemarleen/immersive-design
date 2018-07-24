@@ -18,7 +18,7 @@ ___
 
 **Who framed Roger Rabbit?** [Living in Xperience Reality XR (VR/AR/MR)](https://github.com/annemarleen/immersive-design/blob/master/Prologue.md)
 
-**Getting Started:** [The History of VR](https://github.com/annemarleen/immersive-design/blob/master/gs-history-of-vr.md)
+**Getting Started:** [The History of VR](https://github.com/annemarleen/immersive-design/blob/master/GS-history-of-vr.md)
 
 **Getting Started:** 52 definitions of Virtual Reality
 
