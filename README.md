@@ -1,10 +1,10 @@
-# Immersive Design
+# Immersive Design XR
 
-The course 'Immersive Design' is part of the minor Virtual Reality Experience at the University of Applied Sciences Amsterdam. Since 2016, we have been creating and developing VR & AR projects for KLM, UNICEF, Bartiméus, G-STAR, Mode Muze, Vlisco, Spaarne Gasthuis Hoofddorp, Museum Volkenkunde Leiden and we have succesfully cooperated with [Hypercraft](http://amfi.nl/technology-transforming-fashion-industry/), an exclusive virtual fashion minor at the international critically acclaimed Amsterdam Fashion Institute (AMFI).
+The course 'Immersive Design' is part of the minor Virtual Reality Experience at the University of Applied Sciences Amsterdam. Since 2016, we have been creating and developing VR & AR projects for KLM, UNICEF, Bartiméus, G-STAR, Mode Muze, Vlisco, Spaarne Gasthuis Hoofddorp, Museum Volkenkunde Leiden and we have successfully cooperated with Hypercraft, an exclusive virtual fashion minor at the international critically acclaimed Amsterdam Fashion Institute (AMFI).
 
-### Course Immersive Design
+### Course Immersive Design XR
 
-![glenn](http://www.glennwustlich.nl/wp-content/uploads/2018/03/scope.png)
+![am-turtle](https://drscdn.500px.org/photo/262939599/m%3D900/v2?webp=true&sig=9765abb56eec02eda95204e9c360bcce1d4dadca196528bc3919db51323e6c8e)
 
 This course will provide expertise in designing for alternate reality, such as virtual/augmented and mixed reality. We make use of Narration Techniques & Interactive Storytelling and after finishing this course you will have a firm base in User Experience Design and Interaction Design for 3D User Interfaces VR/AR/MR. We intend to work by means of Research through Design and create Reflective Thinking via dialogue & rationale. 
 
@@ -16,22 +16,22 @@ ___
 
 ## Prologue
 
-**Who framed Roger Rabbit?** [Living in Xperience Reality XR (VR/AR/MR)](https://github.com/annemarleen/immersive-design/blob/master/prologue.md)
+**Who framed Roger Rabbit?** [Living in Xperience Reality XR (VR/AR/MR)](https://github.com/annemarleen/immersive-design/blob/master/Prologue.md)
 
-**Getting Started:** [The History of VR: Founding Fathers & Mothers, Today’s Designers & Futurists](https://github.com/annemarleen/immersive-design/blob/master/gs-history-of-vr.md)
+**Getting Started:** [The History of VR](https://github.com/annemarleen/immersive-design/blob/master/gs-history-of-vr.md)
 
-**Getting Started:** 52 definitions of Virtual Reality by VR father Jaron Lanier
+**Getting Started:** 52 definitions of Virtual Reality
 
 **Getting Started:** Terminology VR
 
-**Getting Started:** PLAY! Games in VR
+**Getting Started:** PLAY! Games in STEAM VR
 
 **Getting Started:** SteamVR, Github, Timeline Unity, Cinemachine Unity, Arduino, VRTK toolkit, A-frame
 
 
 ## Part one: Concept & Identity
 
-**Chapter I.** Narrative techniques & interactive storytelling
+**Chapter I.** Narrative Techniques & Interactive Storytelling
 
 **Chapter II.** Social Space in VR
 
@@ -45,19 +45,19 @@ ___
 
 **Chapter V.** Design Principles and Guidelines
 
-**Chapter VI.** Human Factors
+**Chapter VI.** Human Factors: Perception, Cognition, Attention
 
-**Chapter VII.** Game & Play
+**Chapter VII.** Gamefulness & Playfulness
 
-**Chapter VIII.** Embodied Interaction & Presence
+**Chapter VIII.** Embodied Interaction & Flow States
 
-**Chapter IX.** Emotional Immersion, Senses & Health Adverse Effects
+**Chapter IX.** The Senses, Affective Intensity & Emotional Immersion
 
 ___
 
 ## Part three: Hardware & Prototyping
 
-**Chapter X.** Hardware Technology & Health Adverse Effects
+**Chapter X.** [Hardware Technology & Health Adverse Issues](https://github.com/annemarleen/immersive-design/blob/master/X-Hardware%20Technology%20%26%20Health%20Adverse%20Effects.md)
 
 **Chapter XI.** Head Mounted Displays & Controllers
 
@@ -67,7 +67,7 @@ ___
 
 ## Part four: Interaction Techniques
 
-**Chapter XIII.** 3D Design Patterns & Tutorial Design
+**Chapter XIII.** Tutorial Design & 3D Design Patterns
 
 **Chapter XIV.** Navigation
 
@@ -75,17 +75,17 @@ ___
 
 **Chapter XVI.** System Control
 
-**Chapter XVII.** Selection and Manipulation
+**Chapter XVII.** Selection & Manipulation
 
 **Chapter XVIII.** Feedback
 
-**Chapter XIX.** Motion Capture & Animations 
+**Chapter XIX.** [Movement, Motion Capture & Animation](https://github.com/annemarleen/immersive-design/blob/master/XIX-Movement%2C%20Motion%20Capture%20%26%20Animation.md) 
 
 **Chapter XX.** Audio & Sound
 
 ___
 
-## Part four
+## Part five: Testing
 
 **Chapter XXI.** Testing in XR: Immersion & Presence
 
@@ -94,9 +94,9 @@ ___
 ## Epilogue
 
 ## Other courses in the minor
-* 3D Modeling & Game Engines by [Freark Broersma](f.j.broersma@hva.nl)
-* Head-Mounted Displays & Tracking by [Jurriaan Mulder](j.d.mulder@hva.nl)
-* Virtual Fashion (Clo3D) by [Ineke Siersema](i.siersema@hva.nl)
+* 3D Modeling & Game Engines by Freark Broersma: f.j.broersma@hva.nl
+* Head-Mounted Displays & Tracking by Jurriaan Mulder: j.d.mulder@hva.nl
+* Virtual Fashion (Clo3D) by Ineke Siersema: i.siersema@hva.nl
 
 ## Gear
 **Software:** Unity, Unreal, Maya, Clo3D, Mixamo, Marvelous, DAZ Studio, Make Human, Adobe Fuse, Vuforia, FMOD
@@ -105,10 +105,10 @@ ___
 
 ## Synopsis
 - Course: Immersive Design XR (VR/AR/MR)
-- Course coordinator: [**Anne Marleen Olthof**](@a.m.olthof@hva.nl) [**@annemarleen**](https://twitter.com/annemarleen)
+- Course coordinator: **Anne Marleen Olthof: a.m.olthof@hva.nl // [**@annemarleen**](https://twitter.com/annemarleen)
 - Course lecturer: Anne Marleen Olthof 
 - Minor: Virtual Reality Experience
-- Minor coordinator: [Lisette Vonk](t.e.vonk@hva.nl)
+- Minor coordinator: Lisette Vonk: t.e.vonk@hva.nl
 - Credit: 30 ECTS
 - Academic year: 2018 - 2019
 - Period: Quarter 1 & 2
@@ -124,3 +124,4 @@ The course 'Immersive Design' is part of the minor Virtual Reality Experience at
 This project has a [Code of Conduct](https://github.com/annemarleen/immersive-design/blob/master/code-of-conduct.md). Anyone interacting with this repository, organisation, or community is bound by it.
 Staff and students of the Amsterdam University of Applied Sciences (Hogeschool van Amsterdam) are additionally bound by the [Regulation Undesirable Conduct (Regeling Ongewenst Gedrag)](https://www.amsterdamuas.com/practical-matters/algemeen/hva-breed/juridische-zaken/legal-affairs/regulation-undesirable-conduct/regulation-undesirable-conduct.html#anker-3-complaints-authority).
 
+![minorvr](https://moodle.cmd.hva.nl/pluginfile.php/496/mod_forum/attachment/3828/VR-atelier.jpg)
