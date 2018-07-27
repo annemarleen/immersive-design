@@ -13,7 +13,9 @@ This course will provide expertise in designing for alternate reality, such as v
 My vision is formed on the premise that future designers will be Immersive Designers, who untie themselves from any device and will place the content in the world itself, eliminating the abstraction between the content and its users as much as possible. Students learn how to create multi-sensory experiences that fully captivate the user's potential to feel & sense, touch & taste, see & move, to listen & to speak, without losing grip on the user's needs for understanding and guidance throughout the experience. Students who take this course will become junior experts in Interaction Design for 3D User Interfaces.
 
 ### Github - workspace for learning & development
-Github is used in order to provide the Body of Knowledge to students. Via 25 chapters students can get informed about all aspects that are related to designing for 3-Dimensional Digital Experiences. Students choose their own learning track and challenges and use Github to cooperate on sample projects, experiments and their final team project. At this moment, the course is not open. Some chapters are available below, in order to get an impression.
+Github is used in order to provide the Body of Knowledge to students. Via 25 chapters students can get informed about all aspects that are related to designing for 3-Dimensional Digital Experiences. Students choose their own learning track and challenges and use Github to cooperate on sample projects, experiments and their final team project. 
+
+**At this moment, the course is not open. Some chapters are available below, in order to get an impression.**
 
 # Content
 ___
