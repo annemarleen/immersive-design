@@ -22,7 +22,7 @@ ___
 
 **Who framed Roger Rabbit?** [Living in Xperience Reality XR (VR/AR/MR)](https://github.com/annemarleen/immersive-design/blob/master/Prologue.md)
 
-**Getting Started:** [The History of VR](https://github.com/annemarleen/immersive-design/blob/master/GS-history-of-vr.md)
+**Getting Started:** The History of VR
 
 **Getting Started:** 52 definitions of Virtual Reality
 
@@ -83,7 +83,7 @@ ___
 
 **Chapter XVIII.** [Feedback](https://github.com/annemarleen/immersive-design/blob/master/XVIII-Interaction%20Techniques:%20Feedback%2C%20Feedforward%20%26%20Force%20Feedback.md)
 
-**Chapter XIX.** [Movement, Motion Capture & Animation](https://github.com/annemarleen/immersive-design/blob/master/XIX-Movement%2C%20Motion%20Capture%20%26%20Animation.md) 
+**Chapter XIX.** Movement, Motion Capture & Animation
 
 **Chapter XX.** Audio & Sound
 
