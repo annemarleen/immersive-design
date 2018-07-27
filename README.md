@@ -81,7 +81,7 @@ ___
 
 **Chapter XVII.** Selection & Manipulation
 
-**Chapter XVIII.** Feedback
+**Chapter XVIII.** [Feedback](https://github.com/annemarleen/immersive-design/blob/master/XVIII-Interaction%20Techniques:%20Feedback%2C%20Feedforward%20%26%20Force%20Feedback.md)
 
 **Chapter XIX.** [Movement, Motion Capture & Animation](https://github.com/annemarleen/immersive-design/blob/master/XIX-Movement%2C%20Motion%20Capture%20%26%20Animation.md) 
 
