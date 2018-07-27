@@ -1,15 +1,19 @@
 # Immersive Design XR
 
-The course 'Immersive Design' is part of the minor Virtual Reality Experience at the University of Applied Sciences Amsterdam. Since 2016, we have been creating and developing VR & AR projects for KLM, UNICEF, Bartiméus, G-STAR, Mode Muze, Vlisco, Spaarne Gasthuis Hoofddorp, Museum Volkenkunde Leiden and we have successfully cooperated with Hypercraft, an exclusive virtual fashion minor at the international critically acclaimed Amsterdam Fashion Institute (AMFI).
+The course 'Immersive Design' is created by Anne Marleen Olthof and part of the minor Virtual Reality Experience at the University of Applied Sciences Amsterdam. Since 2016, our educational team has created a demand-driven educational program, wherein students have been creating and developing VR & AR projects for KLM, UNICEF, Bartiméus, G-STAR, Mode Muze, Vlisco, Spaarne Gasthuis Hoofddorp, Museum Volkenkunde Leiden. We have successfully cooperated with Hypercraft, an exclusive virtual fashion minor at the international critically acclaimed Amsterdam Fashion Institute (AMFI).
 
 ### Course Immersive Design XR
 
 ![am-turtle](https://drscdn.500px.org/photo/262939599/m%3D900/v2?webp=true&sig=9765abb56eec02eda95204e9c360bcce1d4dadca196528bc3919db51323e6c8e)
 
-This course will provide expertise in designing for alternate reality, such as virtual/augmented and mixed reality. We make use of Narration Techniques & Interactive Storytelling and after finishing this course you will have a firm base in User Experience Design and Interaction Design for 3D User Interfaces VR/AR/MR. We intend to work by means of Research through Design and create Reflective Thinking via dialogue & rationale. 
+This course will provide expertise in designing for alternate reality, such as virtual/augmented and mixed reality. I make use of Narration Techniques & Interactive Storytelling and after finishing this course students will have a firm base in User Experience Design and Interaction Design for 3D User Interfaces VR/AR/MR. Our team intends to work by means of Research through Design and make Reflective Thinking happen via dialogue & rationale. 
 
-### Vision
-Our vision is formed on the premise that future designers will be Immersive Designers, who untie themselves from any device and will place the content in the world itself, eliminating the abstraction between the content and its users as much as possible. Students learn how to design for this abstraction and learn how to create multi-sensory experiences that fully captivate the user's potential to feel & sense, touch & taste, see & move, to listen & to speak, without losing grip on the user's needs for understanding and guidance throughout the experience. 
+
+### Vision Digital Interactive Design
+My vision is formed on the premise that future designers will be Immersive Designers, who untie themselves from any device and will place the content in the world itself, eliminating the abstraction between the content and its users as much as possible. Students learn how to create multi-sensory experiences that fully captivate the user's potential to feel & sense, touch & taste, see & move, to listen & to speak, without losing grip on the user's needs for understanding and guidance throughout the experience. Students who take this course will become junior experts in Interaction Design for 3D User Interfaces.
+
+### Github - workspace for learning & development
+Github is used in order to provide the Body of Knowledge to students. Via 25 chapters students can get informed about all aspects that are related to designing for 3-Dimensional Digital Experiences. Students choose their own learning track and challenges and use Github to cooperate on sample projects, experiments and their final team project. At this moment, the course is not open. Some chapters are available below, in order to get an impression.
 
 # Content
 ___
