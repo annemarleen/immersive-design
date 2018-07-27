@@ -31,12 +31,6 @@ Minimizing Motion Sickness, some focus points:
 
 ## VR Input and Systems
 
-![taxonomy](https://image.slidesharecdn.com/lecture6-inputdevices-160830020946/95/comp-4010-lecture6-virtual-reality-input-devices-5-638.jpg?cb=1472523080)
- 
-#### [article 1: Lecture 'VR Input and Systems.'](https://www.slideshare.net/marknb00/lecture-3-vr-input-and-systems) 
-
-Taught by Bruce Thomas on August 10th 2017 at the University of South Australia. Slides by Mark Billinghurst.
-
 #### [article 2: Most important sensors in VR (Magnetometer, Accelerometer, Gyroscope)](https://appreal-vr.com/blog/virtual-reality-sensors-how-they-work/)
 
 ## VR Optics & Displays
