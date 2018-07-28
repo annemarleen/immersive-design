@@ -13,7 +13,7 @@ ___
 ![Sheldon](https://media.giphy.com/media/xTiQyI0qPIYaMzyyVa/giphy.gif)
 
 1. First watch [SHELDON COOPER & VIRTUAL REALITY](https://www.youtube.com/watch?v=DWpD7G2IcEY)
-2. How you defined your reference frames (real/virtual world-torso-hand-head-eye)
+2. What is your reference frame (real/virtual world-torso-hand-head-eye)
 3. Show how you work with feedback, feedforward. (single loop - double loop)
 4. Do you use Force Feedback? Why? Explain in-depth what you think is the benefit of using or not using force feedback?
 5. Present your work and explain the design choices according to the provided resources, which are displayed below.
