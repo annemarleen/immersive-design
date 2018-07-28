@@ -36,8 +36,6 @@ The predominant mode of landscape representation was the [bird’s-eye view](htt
 
 However, throughout this boom in technological development the term “virtual reality” still wasn’t even a part of our collective lexicons. It wasn’t until the 80’s when, Jaron Lanier popularized the term providing us with a newly colored lens to look at the world through. Soon Lanier’s ideas were promoting storylines in popular science fiction television shows like Star Trek. From there, science fiction writers began to delve into the depths of what VR could encompass. Ultimately, bringing their ideas to the silver screen with movies like [Tron (1982)](http://www.youtube.com/watch?v=-BZxGhNdz1k "Tron"), [Robocop(1987)](http://www.youtube.com/watch?v=zbCbwP6ibR4 "Robocop"), and even the early 2000's hit [The Matrix Trilogy](http://www.youtube.com/watch?v=WNnGXXlPzuo "Matrix").
 
-[The History of Virtual Reality](https://www.slideshare.net/marknb00/create-your-own-vr-experience)
-
 ## Ancient and Present Reality
 
 ![Dordogne Painted Caves](http://blog.discoverfrance.com/wp-content/uploads/2011/11/lascaux-2.jpg)
