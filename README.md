@@ -22,7 +22,7 @@ ___
 
 ## Prologue
 
-**Who framed Roger Rabbit?** [Living in Xperience Reality XR (VR/AR/MR)](https://github.com/annemarleen/immersive-design/blob/master/Prologue.md)
+**Who framed Roger Rabbit?** Living in Xperience Reality XR (VR/AR/MR)
 
 **Getting Started:** The History of VR
 
@@ -63,7 +63,7 @@ ___
 
 ## Part three: Hardware & Prototyping
 
-**Chapter X.** [Hardware Technology & Health Adverse Issues](https://github.com/annemarleen/immersive-design/blob/master/X-Hardware%20Technology%20%26%20Health%20Adverse%20Effects.md)
+**Chapter X.** Hardware Technology & Health Adverse Issues
 
 **Chapter XI.** Head Mounted Displays & Controllers
 
@@ -83,7 +83,7 @@ ___
 
 **Chapter XVII.** Selection & Manipulation
 
-**Chapter XVIII.** [Feedback](https://github.com/annemarleen/immersive-design/blob/master/XVIII-Interaction%20Techniques:%20Feedback%2C%20Feedforward%20%26%20Force%20Feedback.md)
+**Chapter XVIII.** Feedback
 
 **Chapter XIX.** Movement, Motion Capture & Animation
 
@@ -105,13 +105,13 @@ ___
 **Hardware:** HTC Vive, Oculus, Leap Motion, Hololens, Android AR, Gear VR, Perception Neuron (mocap), IKinema, Manus VR, Fove eye tracking.
 
 ## Synopsis
-- Course: Immersive Design XR (VR/AR/MR) by **Anne Marleen Olthof: a.m.olthof@hva.nl** // [**@annemarleen**](https://twitter.com/annemarleen)
+- Course: Immersive Design XR (VR/AR/MR) by **Anne Marleen Olthof: a.m.olthof@hva.nl** //
 - Course lecturer: Anne Marleen Olthof 
 - Minor: Virtual Reality Experience
 - Minor coordinator: Lisette Vonk: t.e.vonk@hva.nl
 - Credit: 30 ECTS
 - Academic year: 2018 - 2019
-- Period: Quarter 1 & 2
+- Period: Semester 1 & 2
 - Programme: Faculty Digital Media and Creative Industries (full time bachelor)
 - Language: English instructions and resources
 - Entry requirements: N/A
